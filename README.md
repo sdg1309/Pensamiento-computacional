@@ -7,7 +7,7 @@ Este repositorio contiene ejercicios y prácticas enfocadas en las **bases del l
 
 Los ejercicios desarrollados son propuestos por la plataforma **CoinBat** y cubren conceptos fundamentales de programación.
 
-## 🧠 Temas abordados
+## Temas abordados
 - Variables y tipos de datos  
 - Condicionales (`if`, `else`)  
 - Ciclos (`for`, `while`)  
@@ -15,7 +15,7 @@ Los ejercicios desarrollados son propuestos por la plataforma **CoinBat** y cubr
 - Operadores lógicos y aritméticos  
 - Resolución de problemas básicos en Java  
 
-## 🛠️ Lenguaje
+## Lenguaje
 - **Java**
 
 ## Objetivo
