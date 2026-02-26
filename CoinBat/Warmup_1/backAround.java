@@ -15,14 +15,14 @@ public class backAround {
     }
 
     //Respuesta Real
-    public String fbackAroundR(String str) {
+    public static String fbackAroundR(String str) {
         // Get the last char
         String last = str.substring(str.length() - 1);
         return last + str + last;
     }
 
     public static void main(String[] args) {
-        System.out.println(fbackAround("cat"));
+        System.out.println(fbackAroundR("cat"));
     }
     
 }
