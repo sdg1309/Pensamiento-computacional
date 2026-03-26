@@ -2,7 +2,7 @@ package Talleres.Taller_2;
 
 import java.util.Scanner;
 
-public class Infinito {
+public class T207_Infinito {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

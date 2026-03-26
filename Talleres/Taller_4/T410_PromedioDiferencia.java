@@ -2,7 +2,7 @@ package Talleres.Taller_4;
 
 import java.util.Scanner;
 
-public class PromedioDiferencia {
+public class T410_PromedioDiferencia {
 
     public static void main(String[] args) {
         

@@ -2,7 +2,7 @@ package Talleres.Taller_2;
 
 import java.util.Scanner;
 
-public class Conteo100 {
+public class T206_Conteo100 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

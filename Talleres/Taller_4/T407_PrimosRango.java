@@ -2,7 +2,7 @@ package Talleres.Taller_4;
 
 import java.util.Scanner;
 
-public class PrimosRango {
+public class T407_PrimosRango {
     public static int ContPrimo(int A, int B) {
         int NumPrime = 0;
 

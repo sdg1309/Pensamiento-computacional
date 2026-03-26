@@ -2,7 +2,7 @@ package Talleres.Taller_4;
 
 import java.util.Scanner;
 
-public class FactorPrimo {
+public class T408_FactorPrimo {
 
     public static void main(String[] args) {
 

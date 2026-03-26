@@ -2,7 +2,7 @@ package Talleres.Taller_2;
 
 import java.util.Scanner;
 
-public class Factorial {
+public class T209_Factorial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

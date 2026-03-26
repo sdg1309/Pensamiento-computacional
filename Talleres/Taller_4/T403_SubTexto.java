@@ -2,7 +2,7 @@ package Talleres.Taller_4;
 
 import java.util.Scanner;
 
-public class SubTexto {
+public class T403_SubTexto {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package Talleres.Taller_4;
 
 import java.util.Scanner;
 
-public class MayorQue {
+public class T412_MayorQue {
 
     public static void mayor(int[] A) {
 

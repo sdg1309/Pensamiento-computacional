@@ -3,7 +3,7 @@ package Talleres.Taller_2;
 import java.util.Scanner;
 
 
-public class Estrellas {
+public class T203_Estrellas {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

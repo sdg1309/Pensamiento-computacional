@@ -2,7 +2,7 @@ package Talleres.Taller_2;
 
 import java.util.Scanner;
 
-public class SumaPares {
+public class T202_SumaPares {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
