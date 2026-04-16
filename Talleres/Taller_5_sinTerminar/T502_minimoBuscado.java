@@ -1,4 +1,4 @@
-package Talleres.Taller_5;
+package Talleres.Taller_5_sinTerminar;
 
 public class T502_minimoBuscado {
     public static int minimoBuscado(int[][] arr) {

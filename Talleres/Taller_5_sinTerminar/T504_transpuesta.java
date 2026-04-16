@@ -1,4 +1,4 @@
-package Talleres.Taller_5;
+package Talleres.Taller_5_sinTerminar;
 
 public class T504_transpuesta {
     public static void transpuesta(int[][] arr) {
