@@ -1,4 +1,4 @@
-package Talleres.Taller_5_sinTerminar;
+package Talleres.Taller_5;
 
 public class T503_sumaDiagonal {
     public static int sumaDiagonal(int[][] arr) {
