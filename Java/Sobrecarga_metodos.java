@@ -15,6 +15,9 @@ public class Sobrecarga_metodos {
     public static void main(String[] args) {
         int result = suma(4, 5);
         double result2 = suma(4.8, 8.9);
+
+        System.out.println(result);
+        System.out.println(result2);
     }
 
 }
