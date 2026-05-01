@@ -1,9 +1,5 @@
 package poo.Ejemplo_3;
 
-import poo.Ejemplo_3.Animal;
-import poo.Ejemplo_3.Caballito;
-import poo.Ejemplo_3.Mamifero;
-
 public class principalAnimal {
     public static void main(String[] args) {
 
@@ -16,7 +12,7 @@ public class principalAnimal {
 
         System.out.println(animal2);
         System.out.println(mamifero);
-        ;
+        System.out.println(animal);
         System.out.println(caballo);
         caballo.setNombre("Rucio");
         caballo.setEjercicio(3);
