@@ -2,24 +2,31 @@
 
 ```mermaid
 classDiagram
+  
     class Persona {
-        -String nombre
-        +setNombre(String n)
-        +getNombre()
+        - nombre : String
+        + setNombre(String n) void
+        + getNombre() String
     }
-    class empleado {
-        -String empresa
-        +setEmpresa(String n)
-        +getEmpresa()
-        +toString()
+    class Empleado {
+        - empresa : String
+        + setEmpresa(String e) void
+        + getEmpresa() String
+        + toString() String
     }
-    class empleadoAsalariado {
-        -int salario
-        +setSalario(String n)
-        +getSalario()
-        +toString()
+    class EmpleadoAsalariado {
+        - salario : int
+        + setSalario(float s) void
+        + getSalario() float
+        + toString() String
     }
 
-    Persona <|-- empleado
-    empleado <|-- empleadoAsalariado
+    class EmpleadoConContrato{
+        + toString() String
+    }
+
+    Persona <|-- Empleado
+    Empleado <|-- EmpleadoConContrato
+    Empleado <|-- EmpleadoAsalariado
+
 ```
