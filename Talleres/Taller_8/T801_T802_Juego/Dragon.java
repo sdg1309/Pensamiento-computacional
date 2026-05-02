@@ -20,4 +20,8 @@ public class Dragon extends Monstruo {
     public void moverse() {
         System.out.println("Soy un dragon, estoy volando " + getNombre());
     }
+
+    public String getPiel() {
+        return piel;
+    }
 }

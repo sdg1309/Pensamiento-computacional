@@ -13,6 +13,10 @@ public class Orco extends Monstruo {
         System.out.println(getNombre());
     }
 
+    public String getSonido() {
+        return sonido;
+    }
+
     @Override
     public void moverse() {
         System.out.println("Soy un orco, estoy corriendo " + getNombre());
