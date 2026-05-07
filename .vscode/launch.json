@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "parcial2.juego.main",
+            "projectName": "Pensamiento-computacional_32ad6c5d"
+        },
+        {
+            "type": "java",
+            "name": "MetroMedellin",
+            "request": "launch",
+            "mainClass": "parcial_2.MetroMedellin",
+            "projectName": "Pensamiento-computacional_32ad6c5d"
+        },
+        {
+            "type": "java",
+            "name": "JavaFX",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path /usr/share/openjfx/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
