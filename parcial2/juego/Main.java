@@ -1,6 +1,6 @@
 package parcial2.juego;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Personaje p1 = new Personaje("p1", 2,100);
         Personaje p2 = new Guerrero("p2", 15, 125, 20);
